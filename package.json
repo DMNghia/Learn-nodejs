@@ -1,0 +1,23 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "Learn nodejs and express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DMNghia/Learn-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMNghia/Learn-nodejs/issues"
+  },
+  "homepage": "https://github.com/DMNghia/Learn-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
